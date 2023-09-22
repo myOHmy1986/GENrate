@@ -1,0 +1,71 @@
+/* Global styles */
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+p {
+  font-size: 1rem;
+}
+
+/* Feature-specific styles */
+
+/* Mask Operators */
+
+.mask-operator {
+  color: blue;
+}
+
+/* Material Operators */
+
+.material-operator {
+  color: green;
+}
+
+/* Mball Operators */
+
+.mball-operator {
+  color: purple;
+}
+
+/* Mesh Operators */
+
+.mesh-operator {
+  color: red;
+}
+
+/* Nla Operators */
+
+.nla-operator {
+  color: cyan;
+}
+
+/* Node Operators */
+
+.node-operator {
+  color: orange;
+}
+
+/* Object Operators */
+
+.object-operator {
+  color: magenta;
+}
+
+/* Outliner Operators */
+
+.outliner-operator {
+  color: black;
+}
